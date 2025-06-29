@@ -11,3 +11,22 @@ Through a series of structured tasks, this project will guide learners through i
 This project is ideal for developers, analysts, or students who want hands-on experience in transforming ideas into clear, actionable requirements that support scalable and effective software solutions.
 
 Stay tuned as each section of this repository will evolve with more documentation, diagrams, and learning insights as we progress through the project steps.
+
+## 📌 What is Requirement Analysis?
+
+**Requirement Analysis** is the process of identifying, documenting, and managing the needs and expectations of stakeholders for a software system. It is a critical phase in the **Software Development Life Cycle (SDLC)**, acting as the bridge between business goals and technical solutions. The goal of requirement analysis is to ensure that the development team clearly understands what the system should do, how it should behave, and any constraints it must operate under.
+
+During this phase, stakeholders—including clients, users, project managers, and developers—collaborate to gather information about system needs. These needs are then analyzed, prioritized, and documented in a structured format to guide the design, development, and testing processes.
+
+### 💡 Importance in the SDLC:
+- ✅ **Clarity of Objectives**: Ensures all stakeholders have a shared understanding of what the software will do.
+- ✅ **Minimizes Rework**: Helps avoid costly changes and bugs by identifying issues early.
+- ✅ **Improves Planning**: Supports better estimation of time, resources, and budget.
+- ✅ **Enhances Quality**: Leads to the development of solutions that align with user expectations.
+- ✅ **Foundation for Design**: Provides the baseline for designing architecture, user interfaces, and workflows.
+
+Requirement analysis typically results in the classification of requirements into:
+- **Functional Requirements** – What the system should do (features, tasks, interactions).
+- **Non-Functional Requirements** – How the system should perform (security, scalability, usability, etc.).
+
+It may also include tools such as **use case diagrams**, **user stories**, and **acceptance criteria** to visually and structurally represent the requirements. Overall, this phase ensures the success of a project by setting a strong, aligned foundation before any coding begins.
