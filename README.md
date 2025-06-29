@@ -132,4 +132,27 @@ The following diagram represents the main actors and use cases for the booking s
 - Manage bookings (Admin only)
 - Generate booking reports (Admin only)
 
-> *Note:* The use case diagram was designed using [draw.io](https://draw.io) and exported as alx-booking-uc.png. 
+> *Note:* The use case diagram was designed using [draw.io](https://draw.io) and exported as alx-booking-uc.png.
+
+## ✅ Acceptance Criteria
+
+**Acceptance Criteria** are a set of predefined requirements or conditions that must be met for a feature or functionality to be considered complete and acceptable by stakeholders. They are essential in **Requirement Analysis** for the following reasons:
+
+- **Clarifies Expectations** – Ensures everyone understands what needs to be delivered.
+- **Guides Development** – Helps developers know when the feature is complete.
+- **Supports Testing** – Testers use acceptance criteria to validate functionality.
+- **Reduces Ambiguity** – Makes requirements measurable and verifiable.
+- **Improves Communication** – Provides a shared understanding between technical and non-technical team members.
+
+### 🧾 Example: Acceptance Criteria for a "Checkout" Feature in a Booking Management System
+
+**Feature:** *Checkout Functionality*
+
+**Acceptance Criteria:**
+
+- ✅ The user must be able to review booking details (room, dates, total cost) before confirming checkout.
+- ✅ The checkout button must only be enabled if all required fields are filled (e.g., payment info).
+- ✅ A confirmation message should be displayed after successful checkout.
+- ✅ The system must update the room status to "Available" after checkout.
+- ✅ A receipt/invoice should be automatically emailed to the user upon completion.
+
