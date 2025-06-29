@@ -67,7 +67,31 @@ The Requirement Analysis phase is essential in the Software Development Life Cyc
   - Create artifacts such as Software Requirement Specification (SRS) documents.
   - Use diagrams and structured formats for better understanding and traceability.
 
-- *Requirement Analysis and Modeling*
+- *Requirement Analysis and Modeling*## Types of Requirements
+
+In software engineering, requirements are generally categorized into two types: Functional and Non-functional. These help define what the system should do and how well it should perform.
+
+### Functional Requirements
+
+Functional requirements describe the core functionalities and behavior of the system—what the system *should do*.
+
+*Examples for a Booking Management Project:*
+- The system shall allow users to create an account and log in.
+- The system shall enable users to search for available rooms based on dates and preferences.
+- The system shall allow users to make, update, or cancel a booking.
+- The system shall send email confirmations upon successful booking.
+- The admin shall be able to view, modify, or delete any booking record.
+
+### Non-functional Requirements
+
+Non-functional requirements define the *quality attributes* of the system—how the system performs under specific conditions.
+
+*Examples for a Booking Management Project:*
+- The system should be available 99.9% of the time (high availability).
+- The booking page should load within 2 seconds under normal load.
+- The system must support up to 1,000 concurrent users.
+- All data must be encrypted during transmission using HTTPS.
+- The interface should be accessible and mobile-responsive.
   - Analyze requirements for feasibility, consistency, and completeness.
   - Create models such as Data Flow Diagrams (DFD), UML diagrams, or Entity-Relationship (ER) models.
   - Identify gaps, redundancies, or conflicts in the requirements.
@@ -76,3 +100,5 @@ The Requirement Analysis phase is essential in the Software Development Life Cyc
   - Verify and validate requirements with stakeholders.
   - Ensure requirements are accurate, complete, and aligned with business goals.
   - Use techniques like reviews, walkthroughs, and formal inspections.
+ 
+    
