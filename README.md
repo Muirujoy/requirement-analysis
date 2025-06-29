@@ -115,7 +115,8 @@ A *Use Case Diagram* is a visual representation of the interactions between user
 
 The following diagram represents the main actors and use cases for the booking system:
 
-![Use Case Diagram](alx-booking-uc.png)
+![Use Case Diagram](alx-booking-uc.png.jpg)
+
 
 *Actors:*
 - Guest (User)
